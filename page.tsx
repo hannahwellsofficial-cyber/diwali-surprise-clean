@@ -1,4 +1,4 @@
-import { SurpriseExperience } from '@/components/surprise-experience'
+import { SurpriseExperience } from './surprise-experience'
 
 export default function Page() {
   return <SurpriseExperience />
